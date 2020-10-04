@@ -1,0 +1,11 @@
+﻿Variable A,Variable B,Variable C,Output
+Yes,On,High,Red
+No,Off,Low,Blue
+Yes,On,High,Red
+Yes,Off,High,Red
+No,On,High,Blue
+Yes,On,Low,Blue
+No,Off,High,Blue
+No,On,High,Blue
+Yes,On,Low,Blue
+Yes,Off,High,Red
